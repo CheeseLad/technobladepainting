@@ -1,6 +1,6 @@
 displayName = Technoblade Painting
 author = Cheese
-version = 1.2
+version = 1.4.4
 homepage = https://steamcommunity.com/sharedfiles/filedetails/?id=2830097837
 hideCode = false
 hideResources = false

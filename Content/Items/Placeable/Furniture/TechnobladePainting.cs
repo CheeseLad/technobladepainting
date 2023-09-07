@@ -8,8 +8,8 @@ namespace TechnobladePainting.Content.Items.Placeable.Furniture
 	public class TechnobladePainting : ModItem
 	{
 		public override void SetStaticDefaults() {
-			DisplayName.SetDefault("Technoblade Painting");
-			Tooltip.SetDefault("'Technoblade never dies'");
+			// DisplayName.SetDefault("Technoblade Painting");
+			// Tooltip.SetDefault("'Technoblade never dies'");
 			CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 1;
 		}
 
